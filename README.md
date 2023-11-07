@@ -13,6 +13,6 @@ Here's a bit more about me:
 
 Feel free to explore my repositories and check out the projects I've been working on. If you'd like to collaborate or have any questions, don't hesitate to get in touch!
 
-You can also find me on [[LinkedIn](https://www.linkedin.com/in/advait-karnatak-0b0286137/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/advait-karnatak-0b0286137/).
 
 Thanks for visiting my GitHub profile!
