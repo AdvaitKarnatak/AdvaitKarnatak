@@ -6,7 +6,7 @@ I'm passionate about Machine Learning, and I enjoy working on various coding and
 
 Here's a bit more about me:
 
-- 🔭 Currently working on DL projects
+- 🔭 Currently working on Deep Learning projects
 - 🌱 Decent command over DSA
 - 💬 Ask me about [Your Expertise/Interest]
 - 📫 How to reach me: advait.iitd@gmail.com
